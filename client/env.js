@@ -1,5 +1,6 @@
 Accounts.ui.config({
     requestPermissions: {},
+    passwordSignupFields: 'USERNAME_ONLY',
     extraSignupFields: [{
         fieldName: 'first-name',
         fieldLabel: 'First name',
